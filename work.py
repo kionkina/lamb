@@ -1,7 +1,7 @@
 '''
 Karina Ionkina and Queenie Xiang
 SoftDev02 pd8
-K18 -- Reductio ad Absurdum
+K18 -- Reductio ad Absurdum PY version 
 2018-04-30
 '''
 
